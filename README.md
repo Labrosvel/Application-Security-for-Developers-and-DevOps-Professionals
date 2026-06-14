@@ -5,3 +5,10 @@ https://www.coursera.org/learn/application-security-for-developers-devops?specia
 ### Introduction to DevSecOps
 - Security by Design
 - What is DevSecOps?
+### Understanding the Role of Network Security
+- The OSI Model
+- Securing Layers for Application Development
+- Security Patterns
+- TLS/SSL
+- What is OpenSSL?
+- Lab 1a: Using OpenSSL to Encrypt and Decrypt Files
